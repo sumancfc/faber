@@ -1,0 +1,117 @@
+
+---Downloaded files---
+The import files for: Elementor Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/faber
+Data file = C:\xampp\htdocs\faber/wp-content/uploads/2021/03/demo-content-import-file_2021-03-26__16-17-44.xml
+Widget file = C:\xampp\htdocs\faber/wp-content/uploads/2021/03/demo-widgets-import-file_2021-03-26__16-17-44.json
+Customizer file = C:\xampp\htdocs\faber/wp-content/uploads/2021/03/demo-customizer-import-file_2021-03-26__16-17-44.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 8
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 9
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing content---
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Could not find the post parent for "" (post #801)
+[WARNING] Could not find the post parent for "" (post #802)
+[WARNING] Could not find the post parent for "" (post #803)
+[WARNING] Could not find the post parent for "" (post #806)
+[WARNING] Could not find the post parent for "" (post #810)
+[WARNING] Could not find the post parent for "" (post #811)
+[WARNING] Could not find the post parent for "" (post #812)
+[WARNING] Could not find the post parent for "" (post #813)
+[WARNING] Could not find the post parent for "" (post #818)
+[WARNING] Could not find the post parent for "" (post #819)
+[WARNING] Could not find the post parent for "" (post #820)
+[WARNING] Could not find the post parent for "" (post #821)
+[WARNING] Could not find the post parent for "Child &#038; Kids" (post #822)
+[WARNING] Could not find the post parent for "Old &#038; Young" (post #823)
+[WARNING] Could not find the post parent for "Man &#038; Female" (post #824)
+[WARNING] Could not find the post parent for "For Him &#038; Her" (post #825)
+[WARNING] Could not find the post parent for "" (post #829)
+[WARNING] Could not find the post parent for "" (post #834)
+[WARNING] Could not find the post parent for "" (post #835)
+[WARNING] Could not find the post parent for "" (post #836)
+[WARNING] Could not find the post parent for "" (post #837)
+[WARNING] Could not find the post parent for "" (post #840)
+[WARNING] Could not find the post parent for "" (post #841)
+[WARNING] Could not find the post parent for "" (post #842)
+[WARNING] Could not find the post parent for "" (post #843)
+
+Max execution time after content import = 300
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+Sidebar : 
+
+Product Search - Product Search - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+Image - No Title - Imported
+
+Footer 1 : 
+
+OS: About Widget - About - Imported
+
+Footer 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer 3 : 
+
+Products - On Sale - Imported
+
+Footer 4 : 
+
+Products by Rating - Top rated products - Imported
+
+
+
+---et-after-demo-content-import---
+

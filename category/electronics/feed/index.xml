@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Electronics &#8211; Faber Nepal</title>
+	<atom:link href="/https://sumancfc.github.io/faber/category/electronics/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sumancfc.github.io/faber</link>
+	<description>Kitchen Appliances</description>
+	<lastBuildDate>Wed, 18 Sep 2019 12:09:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Shop Wide Collection Of Electronics This Fall</title>
+		<link>/https://sumancfc.github.io/faber/2019/09/18/shop-wide-collection-of-electronics-this-fall/</link>
+					<comments>/https://sumancfc.github.io/faber/2019/09/18/shop-wide-collection-of-electronics-this-fall/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 18 Sep 2019 12:09:43 +0000</pubDate>
+				<category><![CDATA[Electronics]]></category>
+		<guid isPermaLink="false">https://demo.themebeez.com/demos-2/orchid-store-ii/?p=724</guid>
+
+					<description><![CDATA[Aliquam at viverra leo, id bibendum nibh. Cras pretium ipsum at neque placerat, tincidunt sagittis augue lacinia. Quisque vel varius nisi, sit amet ullamcorper enim. Nulla nibh nisi, imperdiet eget]]></description>
+										<content:encoded><![CDATA[
+<p>Aliquam at viverra leo, id bibendum nibh. Cras pretium ipsum at neque placerat, tincidunt sagittis augue lacinia. Quisque vel varius nisi, sit amet ullamcorper enim. Nulla nibh nisi, imperdiet eget convallis ultrices, egestas commodo metus. </p>
+
+
+
+<p>Mauris eu molestie dui. Phasellus quis orci nec elit consequat placerat quis quis libero. Phasellus euismod consequat orci a venenatis. Mauris eget tortor nec velit eleifend ultrices a sit amet sem. Proin suscipit sagittis consectetur.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Shenzhen Electronics Market Haul!" width="640" height="360" src="https://www.youtube.com/embed/JOfpG37WCLk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Aenean ipsum ipsum, semper quis purus sed, congue condimentum turpis. Pellentesque ut sem nibh. Aenean sagittis sit amet ipsum eu condimentum. Pellentesque ut laoreet ipsum. Nunc ex quam, consectetur id risus et, ornare maximus mauris. Nulla sed nibh id turpis tempor elementum. </p>
+
+
+
+<p>Donec pharetra blandit est non ultricies. Quisque porttitor, tortor sed elementum eleifend, risus ligula egestas nisi, eget aliquet quam quam semper arcu. Duis fermentum tellus non venenatis gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus odio nulla, consequat ut lorem vel, pharetra volutpat ante. Nullam eu felis nisl.</p>
+
+
+
+<h3>EXAMPLE HEADING</h3>
+
+
+
+<p> Aenean congue nunc eget metus gravida efficitur. Aliquam venenatis felis aliquet, egestas dolor non, consectetur turpis. Suspendisse imperdiet enim eget convallis rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus massa ut diam interdum ultrices. Duis sollicitudin, ligula bibendum facilisis lobortis, lorem sem pharetra est, at semper orci libero quis lectus. Mauris non semper nisi. </p>
+
+
+
+<p>Aenean congue nunc eget metus gravida efficitur. Aliquam venenatis felis aliquet, egestas dolor non, consectetur turpis. Suspendisse imperdiet enim eget convallis rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus massa ut diam interdum ultrices. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://sumancfc.github.io/faber/2019/09/18/shop-wide-collection-of-electronics-this-fall/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
